@@ -1,0 +1,15 @@
+{
+  "name": "SPRYNX \u2014 Integrated Academic Solutions",
+  "short_name": "SPRYNX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F8FC",
+  "theme_color": "#072E67",
+  "icons": [
+    {
+      "src": "images/logo/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
